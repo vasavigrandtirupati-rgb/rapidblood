@@ -1,0 +1,7 @@
+{
+  "name": "RapidBlood",
+  "description": "An emergency blood availability and donor coordination platform providing real-time inventory management, donor tracking, and emergency alerts with role-based access control.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
